@@ -1,0 +1,10 @@
+{
+    name: "sue",
+    age: 26,
+    status: "A"
+    groups: ["news", "sports"]
+}
+
+
+
+
